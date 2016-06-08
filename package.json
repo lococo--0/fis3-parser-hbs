@@ -1,0 +1,30 @@
+{
+  "name": "fis3-parser-hbs",
+  "version": "1.0.0",
+  "description": "Build the handlebars template with fis3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lococo--0/fis3-parser-hbs.git"
+  },
+  "keywords": [
+    "fis3",
+    "fis",
+    "handlebars",
+    "hbs",
+    "parser",
+    "parse"
+  ],
+  "author": "lococo <lococo.exe@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lococo--0/fis3-parser-hbs/issues"
+  },
+  "homepage": "https://github.com/lococo--0/fis3-parser-hbs#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5"
+  }
+}
